@@ -1,0 +1,1037 @@
+{
+  "name": "amigo-bipolar",
+  "intents": [
+    {
+      "intent": "xingamento",
+      "examples": [
+        {
+          "text": "voce é idiota"
+        },
+        {
+          "text": "voce é muito chato"
+        },
+        {
+          "text": "voce é chato"
+        },
+        {
+          "text": "chato voce"
+        },
+        {
+          "text": "chato"
+        },
+        {
+          "text": "vagabunda"
+        },
+        {
+          "text": "vagabundo"
+        },
+        {
+          "text": "voce é burra"
+        },
+        {
+          "text": "voce é burro"
+        },
+        {
+          "text": "voce é desgramado"
+        },
+        {
+          "text": "voce é retardado"
+        },
+        {
+          "text": "voce é desgraçado"
+        },
+        {
+          "text": "voce é puta"
+        },
+        {
+          "text": "voce é retadado"
+        },
+        {
+          "text": "voce é um filho da puta"
+        },
+        {
+          "text": "voce é babaca"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "tipo1",
+      "examples": [
+        {
+          "text": "transtorno bipolar tipo 1"
+        },
+        {
+          "text": "o que é fase tipo 1"
+        },
+        {
+          "text": "transtorno bipolar tipo I"
+        },
+        {
+          "text": "o que acontece no transtorno bipolar tipo I"
+        },
+        {
+          "text": "o que acontece no transtorno bipolar tipo 1"
+        },
+        {
+          "text": "transtorno bipolar tipo I o que acontece"
+        },
+        {
+          "text": "transtorno bipolar tipo 1 o que acontece"
+        },
+        {
+          "text": "tipo 1"
+        },
+        {
+          "text": "tipo I"
+        },
+        {
+          "text": "tipo um"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "autor",
+      "examples": [
+        {
+          "text": "quem foi que te fez"
+        },
+        {
+          "text": "quem te inventou"
+        },
+        {
+          "text": "quem é voce"
+        },
+        {
+          "text": "kollinn"
+        },
+        {
+          "text": "quem fez isso"
+        },
+        {
+          "text": "vc"
+        },
+        {
+          "text": "quem vc é"
+        },
+        {
+          "text": "quem é vc"
+        },
+        {
+          "text": "quem te fez"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "diferenca-mania-hipomania",
+      "examples": [
+        {
+          "text": "qual a diferença de hipomania para mania?"
+        },
+        {
+          "text": "qual a diferença entre mania e hipomania"
+        },
+        {
+          "text": "existe diferença para hipomania e mania"
+        },
+        {
+          "text": "existe diferença de mania para hipomania"
+        },
+        {
+          "text": "diferença de mania para hipomania"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "mania",
+      "examples": [
+        {
+          "text": "o que acontece nos episodios de mania"
+        },
+        {
+          "text": "o que acontece com mania"
+        },
+        {
+          "text": "como acontece episodios de mania?"
+        },
+        {
+          "text": "o que é mania"
+        },
+        {
+          "text": "mania o que é"
+        },
+        {
+          "text": "o que é mania?"
+        },
+        {
+          "text": "o que acontece na mania"
+        }
+      ],
+      "description": "o que é mania?"
+    },
+    {
+      "intent": "causa",
+      "examples": [
+        {
+          "text": "tratamento"
+        },
+        {
+          "text": "tem tratamento"
+        },
+        {
+          "text": "existe tratamento"
+        },
+        {
+          "text": "o que causa transtorno bipolar"
+        },
+        {
+          "text": "porque uma pessoa tem transtorno bipolar"
+        },
+        {
+          "text": "o que faz uma pessoa ter transtorno bipolar"
+        },
+        {
+          "text": "o que acontece pra uma pessoa ter transtorno bipolar"
+        },
+        {
+          "text": "tratar transtorno bipolar"
+        },
+        {
+          "text": "como tratar transtorno bipolar"
+        },
+        {
+          "text": "diaguinostico"
+        },
+        {
+          "text": "diagnostico"
+        },
+        {
+          "text": "tratamento para doença"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "tipo2",
+      "examples": [
+        {
+          "text": "transtorno bipolar tipo 2 o que é"
+        },
+        {
+          "text": "o que é transtorno bipolar 2"
+        },
+        {
+          "text": "tipo II"
+        },
+        {
+          "text": "tipo 2"
+        },
+        {
+          "text": "o que é transtorno bipolar tipo II"
+        },
+        {
+          "text": "o que é transtorno bipolar tipo 2"
+        },
+        {
+          "text": "transtorno bipolar tipo II o que é"
+        },
+        {
+          "text": "transtorno bipolar tipo II"
+        },
+        {
+          "text": "transtorno bipolar tipo 2"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "o-que-e",
+      "examples": [
+        {
+          "text": "o que é bipolar?"
+        },
+        {
+          "text": "o que é transtorno bipolar?"
+        },
+        {
+          "text": "o que é alguem bipolar?"
+        },
+        {
+          "text": "transtorno bipolar, o que é?"
+        },
+        {
+          "text": "transtorno bipolar o que é?"
+        },
+        {
+          "text": "o que é bipolariedade?"
+        },
+        {
+          "text": "o que é bipolaridade?"
+        },
+        {
+          "text": "o que é ser bipolar?"
+        },
+        {
+          "text": "niveis"
+        },
+        {
+          "text": "o que é"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "lidar-crise",
+      "examples": [
+        {
+          "text": "ajudar meu amigo"
+        },
+        {
+          "text": "Como lidar com a crise?"
+        },
+        {
+          "text": "o que fazer numa crise?"
+        },
+        {
+          "text": "o que posso fazer numa crise"
+        },
+        {
+          "text": "como ajudar meu amigo numa crise?"
+        },
+        {
+          "text": "como posso ajudar ele na crise?"
+        },
+        {
+          "text": "como posso ajudar"
+        },
+        {
+          "text": "como posso auxiliar"
+        },
+        {
+          "text": "como auxiliar"
+        },
+        {
+          "text": "ajudar"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "transtornoCiclo",
+      "examples": [
+        {
+          "text": "o que é transtorno ciclo"
+        },
+        {
+          "text": "o que é transtorno bipolar ciclomitico"
+        },
+        {
+          "text": "o que acontece transtorno bipolar ciclomitico"
+        },
+        {
+          "text": "o que é transtorno ciclomitico"
+        },
+        {
+          "text": "transtorno bipolar ciclo o que é"
+        },
+        {
+          "text": "transtorno bipolar ciclomitico o que é"
+        },
+        {
+          "text": "o que é transtorno bipolar ciclo"
+        },
+        {
+          "text": "o que acontece transtorno bipolar ciclo"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "hipomania",
+      "examples": [
+        {
+          "text": "o que é hipomania"
+        },
+        {
+          "text": "como é hipomania"
+        },
+        {
+          "text": "o que acontece na ipomania"
+        },
+        {
+          "text": "o que é ipomania"
+        },
+        {
+          "text": "o que acontece na hipomania"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "depressao",
+      "examples": [
+        {
+          "text": "depresao o que é"
+        },
+        {
+          "text": "depreçao o que é"
+        },
+        {
+          "text": "o que acontece com depressao"
+        },
+        {
+          "text": "o que acontece com episodios depressivos"
+        },
+        {
+          "text": "o que acontece na fase da depressao"
+        },
+        {
+          "text": "o que é depressao"
+        },
+        {
+          "text": "o que é depresao"
+        },
+        {
+          "text": "o que é depreção"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "elogios",
+      "examples": [
+        {
+          "text": "gatissima"
+        },
+        {
+          "text": "maravilhoso"
+        },
+        {
+          "text": "maravilhosa"
+        },
+        {
+          "text": "voce é bonita"
+        },
+        {
+          "text": "voce é lindo"
+        },
+        {
+          "text": "voce é bonito"
+        },
+        {
+          "text": "boa semana"
+        },
+        {
+          "text": "boa madrugada"
+        },
+        {
+          "text": "boa tarde"
+        },
+        {
+          "text": "boa noite"
+        },
+        {
+          "text": "bom dia"
+        },
+        {
+          "text": "voce é linda"
+        },
+        {
+          "text": "voce é gato"
+        },
+        {
+          "text": "gato"
+        },
+        {
+          "text": "gatissimo"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "tipoMisto",
+      "examples": [
+        {
+          "text": "o que é tipo misto"
+        },
+        {
+          "text": "o que acontece transtorno bipolar misto"
+        },
+        {
+          "text": "transtorno bipolar misto o que é"
+        },
+        {
+          "text": "o que é transtorno bipolar misto"
+        },
+        {
+          "text": "transtorno bipolar tipo misto o que é"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [
+    {
+      "entity": "recepcao-elogios",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "recepcao-oi",
+          "synonyms": [
+            "oi",
+            "ola",
+            "hello",
+            "hi",
+            "hello its me"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "crise",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "crise-mania",
+          "synonyms": [
+            "crise de mania",
+            "mania crise",
+            "crise com mania",
+            "mania",
+            "crize de mania",
+            "mania crize"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "crise-depressiva",
+          "synonyms": [
+            "episodios depressivos",
+            "depressao",
+            "deprezao",
+            "depresao",
+            "crise de depressao",
+            "depressao de crise"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "suicidio",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "suicidio",
+          "synonyms": [
+            "morre",
+            "morte",
+            "morto",
+            "matar",
+            "cometer suicidio",
+            "morrer"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    }
+  ],
+  "language": "pt-br",
+  "metadata": {
+    "api_version": {
+      "major_version": "v1",
+      "minor_version": "2018-09-20"
+    }
+  },
+  "description": "",
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "crise-depressiva",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A crise de depressão tem sintomas como sentimentos de desesperança e pessimismo, tristeza e ansiedade, perda de autoestima, sensação de um vazio profundo, sentimento de culpa, inutilidade e desamparo, perda de interesse ou prazer em passatempos e atividades que antes fazia, diminuição da energia, fadiga e cansaço, dificuldade de concentração e tomada de decisão (indecisão), insônia, perda de apetite e consequentemente de peso, solidão, irritabilidade, inquietação, pensamentos suicidas. "
+              },
+              {
+                "text": "Se seu amigo aparentar-se deprimido, tente saber se ele sente-se confortável com companhia, evitar deixar ele sozinho é um grande passo para ele se sentir acolhido, não usar o senso comum é um passo gigantesco, tente não usar frases como \"não fica assim, vai passar\" \"vai ficar tudo bem\" \"a vida é boa\". Por mais que você diz que entende, não conseguimos saber o que o próximo sente, pois cada um tem sua intensidade."
+              },
+              {
+                "text": "Evite tentar buscar motivos para seu amigo estar assim, muitas vezes não tem motivo específico, às vezes simplesmente acontece e a última coisa que ele vai querer saber no momento é buscar algum motivo para as pessoas pararem de ficar perguntar o motivo."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_1_1559757983115",
+      "metadata": {},
+      "conditions": "@crise:crise-depressiva",
+      "dialog_node": "node_3_1559759165435",
+      "previous_sibling": "node_2_1559758065482"
+    },
+    {
+      "type": "standard",
+      "title": "crise-mania",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "As crises de mania (euforia) vareiam entre vários sintomas, as principais delas são a agitação, autoestima exagerada, se comportar de forma inadequada em situações sociais, se sentir que está fora do controle algumas situações, ideias delirantes, ideias de grandezas, irritabilidade, entre outras."
+              },
+              {
+                "text": "Muitas vezes esses sintomas não coloca a vida da pessoa em risco, onde é difícil distinguir se é crise ou se é uma característica intensa da pessoa. É sempre bom ter em visão que por mais que não a coloque em risco, que é bom ter um cuidado para pessoa não fazer algo que a prejudique futuramente ou prejudicar o próximo, ajuda-la a diferenciar se é crise ou se é característica é algo muito importante, conversar, tentar fazer o amigo analisar as situações que ele está se colocando ou colocando o próximo, tentar avaliar se há risco possíveis ou não, fazer a pessoa perceber se há alguma lógica naquilo que ele está fazendo. Tentar compreender que nem tudo ele poderá controlar, mas também não dar o direito dele fazer o que bem entender. "
+              },
+              {
+                "text": "Em casos extremos de persistência em crise de mania, sempre bom procurar um psicologo para saber se o amigo tem como se controlar nas situações presentes, em casos extremos procurar o psiquiatra para ver se esse desequilíbrio está acima do limite. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_1_1559757983115",
+      "metadata": {},
+      "conditions": "@crise:crise-mania",
+      "dialog_node": "node_2_1559758065482"
+    },
+    {
+      "type": "standard",
+      "title": "Transtorno bipolar misto",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "É caracterizado por períodos mistos, em que em um mesmo dia pode-se haver alternância entre depressão e mania"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1559852136305",
+      "metadata": {},
+      "conditions": "#tipoMisto",
+      "dialog_node": "node_4_1559859695753",
+      "previous_sibling": "node_2_1559859553128"
+    },
+    {
+      "type": "standard",
+      "title": "Transtorno bipolar II",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Há uma alternância entre os episódios de depressão e os de hipomania(estado mais leve de euforia, excitação, otimismo e, às vezes de agressividade), sem prejuízo maior para o comportamento e as atividades. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1559852136305",
+      "metadata": {},
+      "conditions": "#tipo2",
+      "dialog_node": "node_2_1559859553128",
+      "previous_sibling": "node_1_1559858886149"
+    },
+    {
+      "type": "standard",
+      "title": "Transtorno bipolar ciclomítico",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "É o quadro mais leve do transtorno bipolar, marcado por oscilações crônicas do humor, que podem ocorrer até no mesmo dia. A pessoa alterna sintomas de hipomania e de depressão leve que, muitas vezes, são entendidos como próprios de um comportamento instável ou irresponsável. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1559852136305",
+      "metadata": {},
+      "conditions": "#transtornoCiclo",
+      "dialog_node": "node_5_1559859790815",
+      "previous_sibling": "node_4_1559859695753"
+    },
+    {
+      "type": "standard",
+      "title": "Transtorno bipolar I",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Apresenta períodos de mania, que duram, no mínimo, sete dias, e fase de humor deprimido, que se estendem de duas semanas a vários meses. Tanto mania quanto a depressão, os sintomas são intensos e provocam profundas mudanças comportamentais, que podem comprometer não só os relacionamentos familiares, afetivos e sociais, como também o desempenho profissional."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_1_1559852136305",
+      "metadata": {},
+      "conditions": "#tipo1",
+      "dialog_node": "node_1_1559858886149"
+    },
+    {
+      "type": "standard",
+      "title": "Em outros casos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Desculpa, não consegui entender sua pergunta, pode tentar perguntar de outra maneira? "
+              },
+              {
+                "text": "Não entendi sua pergunta, pode perguntar de outra maneira, por favor? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "anything_else",
+      "dialog_node": "Em outros casos",
+      "previous_sibling": "node_6_1559861205923"
+    },
+    {
+      "type": "standard",
+      "title": "xingamento",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Não estamos aqui para trocar ofensas, estamos aqui para ajudar você a lidar com seu amigo com transtorno bipolar. Por favor,  me fala qual é sua dúvida."
+              },
+              {
+                "text": "Por favor, não vamos trocar ofensas, estamos aqui para ajudar você com seu Amigo."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#xingamento",
+      "dialog_node": "node_1_1559761131963",
+      "previous_sibling": "node_1_1559757983115"
+    },
+    {
+      "type": "standard",
+      "title": "lidar-crise",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Quem é bipolar existe as fases de Mania e de Episódios depressivos, onde as crises variam com suas fases, muitas vezes estão muito próximas uma da outra e outras vezes distante. De qual fase você quer saber? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#lidar-crise",
+      "dialog_node": "node_1_1559757983115",
+      "previous_sibling": "node_6_1559759691543"
+    },
+    {
+      "type": "standard",
+      "title": "diferença hipomania e mania",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A diferença de Hipomania e Mania estão ligado à intensidade dos sintomas, enquanto a mania a pessoa passa a ter momentos de euforia e sentimentos extremos, vindo até em certos momentos com agressividades a hipomania é sentimentos moderados, mais leve que a mania, trazendo até uma confusão de emoções do cotidiano. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#diferenca-mania-hipomania",
+      "dialog_node": "node_1_1559862816156",
+      "previous_sibling": "node_2_1559865663514"
+    },
+    {
+      "type": "standard",
+      "title": "suicidio",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Em pesquisas entre 100 pacientes com transtorno bipolar entre 10% a 20% cometem suicídio, nesse numero de pacientes 30% tentam suicídio, esse é um numero de extrema preocupação . Mas a preocupação também são os pacientes que mesmo não tentando suicídio se coloca em situação de grandes riscos. "
+              },
+              {
+                "text": "Se você está percebendo que seu Amigo com Transtorno Bipolar está se colocando em situações de riscos e até mesmo tendo pensamentos suicidas, não ache que isso irá ser passageiro, tente-o tirar dessa nuvem o quanto antes, conversar é uma grande importância, tentar mostrar, sem senso comum, que a vida tem muito sentido e que o que ele está acontecendo são episódios de mania/depressão que irá passar o quanto antes ele pensar. \n"
+              },
+              {
+                "text": "Não deixe de ouvir seu amigo, por mais que seja desgastante a energia que ele está passando naquele período de episódios depressivos/mania ele precisa de alguém para mostrar à ele que a evolução é possível."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "@suicidio:suicidio",
+      "dialog_node": "node_1_1559864064730",
+      "previous_sibling": "node_1_1559862816156"
+    },
+    {
+      "type": "standard",
+      "title": "elogio",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Muito obrigado! Qual é sua dúvida sobre o Amigo com Transtorno Bipolar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#elogios",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_6_1559759691543",
+      "previous_sibling": "node_5_1559759649854"
+    },
+    {
+      "type": "standard",
+      "title": "causa e tratamento",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Ainda não foi determinada uma causa efetiva do transtorno bipolar, mas já se sabe fatores genéticos, alterações em certas áreas do cérebro e nos níveis de vários neurotransmissores estão envolvido. "
+              },
+              {
+                "text": "O tratamento geralmente é medicamentos para estabilizar o humor e a depressão, com ajuda de terapia comportamental ele poderá controlar suas ações nos episódios de mania e de depressão. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#causa",
+      "dialog_node": "node_7_1559862591016",
+      "previous_sibling": "node_1_1559864064730"
+    },
+    {
+      "type": "standard",
+      "title": "o que é mania",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Mania é uma fase do Transtorno bipolar que pode representar os seguintes sintomas: \n"
+              },
+              {
+                "text": "Agitação, autoestima exagerada, diminuição da necessidade de sono, ideias de grandeza, aumento do desejo sexual, energia excessivamente aumentada, comportar-se de forma inadequada em situações sociais, hostilidade, podem ter comportamentos agressivos, ideias delirantes."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#mania",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_2_1559852829614",
+      "previous_sibling": "node_7_1559862591016"
+    },
+    {
+      "type": "standard",
+      "title": "o que é depressao",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "A fase depressiva o paciente pode ter os seguintes sintomas: "
+              },
+              {
+                "text": "Sentimentos de desesperança e pessimismo, tristeza e ansiedade, perda de autoestima, sensação de um vazio profundo, sentimento de culpa, inutilidade e desamparo, perda de interesse ou prazer em passatempos e atividades que antes fazia, inclusive sexo, diminuição da energia, fadiga e cansaço, dificuldade de concentração e tomada de decisão (indecisão), insônia, perda de apetite e consequentemente de peso, solidão, irritabilidade, inquietação, pensamentos suicidas. "
+              },
+              {
+                "text": "A fase de depressão do transtorno bipolar é muito confundida com a doença da Depressão, por isso é muito difícil achar um diagnostico muito facilmente, pois em alguns casos o paciente só procuram ajuda quando a fase da depressão está muito aflorado e não vê necessidade de procurar ajuda quando está na fase da mania. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#depressao",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_3_1559853106551",
+      "previous_sibling": "node_1_1559852136305"
+    },
+    {
+      "type": "standard",
+      "title": "duvida sobre quem fez",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá! Eu sou Kollinn Benvenutti, fiz esse chatbot para ajudar você ajudar seu amigo bipolar, muitas vezes essa doença vem para deixar todos assustados sem saber o que podemos ou não fazer, esse meu chatbot Amigo Virtual é a realização de um trabalho para matéria de Inteligência Artificial no centro universitário de Brusque - UNIFEBE. Ele foi realizado com algumas dúvidas que meus amigos queriam saber sobre como lidar em certas situações comigo, pois eu também sou um amigo com transtorno bipolar ;) "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#autor",
+      "dialog_node": "node_2_1559865663514",
+      "previous_sibling": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "recepcao",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá, qual é sua dúvida sobre o Amigo com Transtorno Bipolar?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "@recepcao-elogios:recepcao-oi",
+      "dialog_node": "node_5_1559759649854",
+      "previous_sibling": "node_3_1559853106551"
+    },
+    {
+      "type": "standard",
+      "title": "o que é hipomania",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Uma pessoa no estágio de hipomania facilmente passará despercebida, jamais vai achar que possui a doença ou precisa de ajuda, pois pode ser facilmente confundido com emoções comuns do nosso cotidiano"
+              },
+              {
+                "text": "Os sintomas de hipomania são: "
+              },
+              {
+                "text": "Fácil distração, aumento de energia para realizar atividades, falar mais que o costume, diminuição na necessidade de sono, ou seja, dormir poucas horas e mesmo assim acordar disposto, humor elevado, facilidade em realizar atividades que antes não faria, assim como tomar decisões sem cautela. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#hipomania",
+      "dialog_node": "node_6_1559861205923",
+      "previous_sibling": "node_1_1559761131963"
+    },
+    {
+      "type": "standard",
+      "title": "o que é",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Transtorno bipolar é uma doença que causa oscilações repentinas de humor de uma pessoa. Essas alterações podem ser sutis ou dramáticas com episódios de mania, hipomania e depressão. "
+              },
+              {
+                "text": "Não se sabe a causa do transtorno bipolar, se é por influencias genéticas, como também fatores ambientais. Os pacientes oscilam entre a felicidade e a tristeza de uma forma muito mais acentuada do que aqueles que não sofrem da doença. O Transtorno bipolar é classificado em Transtorno Bipolar I, II, Misto e Ciclotímico. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "#o-que-e",
+      "dialog_node": "node_1_1559852136305",
+      "previous_sibling": "node_2_1559852829614"
+    },
+    {
+      "type": "standard",
+      "title": "Bem-vindo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá, seja bem vindo ao Amigo Bipolar, esse chatbot foi criado por uma pessoa com transtorno bipolar, para um trabalho de inteligência artificial, ele irá te auxiliar à como lidar com seu amigo que tem transtorno bipolar. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {},
+      "conditions": "welcome",
+      "dialog_node": "Bem-vindo"
+    }
+  ],
+  "workspace_id": "09569d1a-41d7-4b3a-9577-59661129bd14",
+  "counterexamples": [
+    {
+      "text": "meu amigo pode morrer"
+    }
+  ],
+  "system_settings": {
+    "tooling": {
+      "store_generic_responses": true
+    }
+  },
+  "learning_opt_out": false,
+  "status": "Available"
+}
